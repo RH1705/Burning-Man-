@@ -133,12 +133,12 @@ nav a:hover {
 }
 
 .our-mission {
-  background-color: #774015;
+  background-color: whitesmoke;
   box-shadow: inset 0px 0px 20px 0px black;
 }
 
 .our-mission-text h2 {
-  color: whitesmoke;
+  color: rgb(83, 32, 32);
   background-color: #121212;
 }
 
